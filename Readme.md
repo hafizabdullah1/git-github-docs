@@ -149,8 +149,5 @@ Note: koi b change accept kerny k bad add ker k commit kerna pary ga
 - Make a change to your file and commit.
 ```
 
-
-
-# 
 #
 Git and Github by [Hafiz Abdullah](https://hafizabdullah.site)😊
